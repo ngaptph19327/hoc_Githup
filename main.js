@@ -115,7 +115,7 @@ function updateProduct() {
 
 }
 updateProduct()
-
+//Bi 5: xoa tat ca cac san pham trong mang
 function removeAllProduct() {
     const arraylength = this.data.length
     // console.log(arraylength)
